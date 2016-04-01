@@ -11,12 +11,19 @@ The Franzino board comes with the Arduino UNO bootloader to facilitating the upl
 
 Characteristics:
 
-Arduino UNO R3 pinout ;
-ATmega328P Microcontroller ;
-Power: 7.5 V to 20 V DC;
-Protection against reverse polarity of the supply;
-Connector for serial interface connection;
-Power on LED;
-LED connected to pin 13 for general porpouse;
+-Arduino UNO R3 pinout;
+
+-ATmega328P Microcontroller;
+
+-Power: 7.5 V to 20 V DC;
+
+-Protection against reverse polarity of the supply;
+
+-Connector for serial interface connection;
+
+-Power on LED;
+
+-LED connected to pin 13 for general porpouse;
+
 
 
