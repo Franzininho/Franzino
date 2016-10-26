@@ -1,0 +1,31 @@
+Partlist exported from C:/Users/FábioSouza/Documents/eagle/Franzino/Franzino.sch at 13/03/2016 12:25
+
+Part  Value                 Device          Package             Description                                                                              
+C1    10uF                  CPOL-EUE2.5-6   E2,5-6              POLARIZED CAPACITOR, European symbol                                                     
+C2    10uF                  CPOL-EUE2.5-6   E2,5-6              POLARIZED CAPACITOR, European symbol                                                     
+C3    100nF                 C-EUC0805K      C0805K              CAPACITOR, European symbol                                                               
+C4    22pF                  C-US025-024X044 C025-024X044        CAPACITOR, American symbol                                                               
+C5    22pF                  C-US025-024X044 C025-024X044        CAPACITOR, American symbol                                                               
+C6    100nF                 C-EUC0805K      C0805K              CAPACITOR, European symbol                                                               
+C7    100nF                 C-EUC0805K      C0805K              CAPACITOR, European symbol                                                               
+C8    100nF                 C-EUC0805K      C0805K              CAPACITOR, European symbol                                                               
+C9    100nF                 C-EUC0805K      C0805K              CAPACITOR, European symbol                                                               
+CN1   BARRA de PINOS 6 VIAS MPT7            7POL254             PHOENIX CONNECTOR                                                                        
+D1    1N4004                1N4004          DO41-10             DIODE                                                                                    
+IC1   ATMEGA328-P           MEGA8-P         DIL28-3             MICROCONTROLLER                                                                          
+IC2   7805T                 7805T           TO220H              Positive VOLTAGE REGULATOR                                                               
+J1    ARDUINO_UNO_R3        ARDUINO_UNO_R3  ARDUINO_UNO_R3_PINS Arduino UNO R3 headers                                                                   
+JP1   JUMPER                JUMPER          JUMP10                                                                                                       
+JP2   JUMPER                JUMPER          JUMP10                                                                                                       
+JP3   JUMPER                JUMPER          JUMP10                                                                                                       
+JP4   JUMPER                JUMPER          JUMP10                                                                                                       
+JP5   JUMPER                JUMPER          JUMP10                                                                                                       
+JP6   JUMPER                JUMPER          JUMP10                                                                                                       
+L     LED 3 mm Amarelo       LED3MM          LED3MM             LED                                                                                                                                                   
+ON    LED 3 mm VERDE        LED3MM          LED3MM              LED                                                                                      
+P1    2.1MMJACKTHM          2.1MMJACKTHM    PJ-102A             2.1mm x 5.5mm THM DC jack with internal switch. Digikey part #PJ-102A, 4UCON part #05537 
+R1    10K                   R-US_0207/10    0207/10             RESISTOR, American symbol                                                                
+R2    1K                   R-US_0207/10    0207/10             RESISTOR, American symbol                                                                
+R3    1K                   R-US_0207/10    0207/10             RESISTOR, American symbol                                                                
+RESET CHAVE TACTIL 6 mm     TAC_SWITCHPTH   TACTILE-PTH         Momentary Switch                                                                         
+X1    16MHz                 CRYSTALHC49S    HC49/S              CRYSTAL  16 MHZ                                                                                
