@@ -1,0 +1,7 @@
+RV0 
+- Inciail
+- Capacitores SMD
+
+RV1
+- trocado capacitores de 100nF para PTH
+- Melhorado o SILK
