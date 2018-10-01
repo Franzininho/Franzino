@@ -24,7 +24,7 @@ A Franzino vem com o bootloader do Arduino UNO facilitando o processo de upload 
 
 A seguir é apresentada a pinagem para interface serial:
 
-![](./imagens/image8.jpg)
+![](./imagens/image8.png)
 
 Os pino D2 e D4 podem ser utilizados para uma comunicação soft serial, como pino de controle da comunicação RS485 ou outras aplicações de entrada ou saída.
 
@@ -39,15 +39,15 @@ Se o seu projeto não necessitar da comunicação USB/Serial durante o seu funci
 
 Algumas aplicações necessitam de comunicação serial no padrão RS232. Dessa forma você pode ligar facilmente um conversor TTL/RS232.
 
-![](./imagens/image15.jpg)
+![](./imagens/image15.png)
 
 Também é comum aplicações que necessitem da comunicação RS485. Para isso você pode facilmente ligar um módulo conversor TTL/RS485:
 
-![](./imagens/image2.jpg)
+![](./imagens/image2.png)
 
 Outra aplicação interessante para comunicação e o uso de módulos Bluetooth. Esse tipo de módulo pode ser facilmente ligado a Franzino tanto para uso dos pinos padrões de comunicação TX e RX quanto para comunicação soft serial:
 
-![](./imagens/image9.jpg)
+![](./imagens/image9.png)
 
 Como observado acima, há muitas possibilidades de comunicações e você pode facilmente ligar outros módulos para diversas aplicações conforme sua necessidade.
 
@@ -81,15 +81,15 @@ Upload via conversor USB/SERIAL
 
 Para fazer o famoso blink com a Franzino, primeiro é necessário ligar o conversor USB/Serial a placa, como exibido na figura abaixo:
 
-![](./imagens/image10.jpg)
+![](./imagens/image10.png)
 
 Selecione na IDE do Arduino a Placa Arduino/Genuino UNO. Também selecione a porta COM que foi criada ao ser inserido o conversor USB/SERIAL:
 
-![](./imagens/image13.jpg)
+![](./imagens/image13.png)
 
 Faça o UPLOAD:
 
-![](./imagens/image3.jpg)
+![](./imagens/image3.png)
 
 ## Gravando a Franzino com um placa Arduino UNO
 
@@ -97,7 +97,7 @@ Se você não possui um conversor USB/Serial você pode gravar a Franzino atrav�
 
 Escolha a opção ArduinoISP, conforme figura abaixo:
 
-![](./imagens/image17.jpg)
+![](./imagens/image17.png)
 
 Faça o upload para a placa Arduino UNO que será usada como programador.
 
@@ -110,7 +110,7 @@ Feito o UPLOAD, agora vamos as conexões do Arduino UNO na Franzino:
 - Ligue o pino 5V da FRANZINO no pino 5V do Arduino
 - Ligue o pino GND da FRANZINO ao GND do Arduino
 
-![](./imagens/image7.jpg)
+![](./imagens/image7.png)
 
 ## Configurando o avrdude ( se estiver usando o ATmega328 e não o ATmega328P)
 
@@ -118,11 +118,11 @@ A versão 0 da Franzino vem com o ATmega328-PU, dessa forma precisamos configura
 
 Procure a assinatura do ATMEGA328P:
 
-![](./imagens/image11.jpg)
+![](./imagens/image11.png)
 
 Troque a assinatura por:
 
-![](./imagens/image16.jpg)
+![](./imagens/image16.png)
 
 Salve o arquivo.
 
@@ -131,25 +131,25 @@ UPLOAD de Sketchs usando a Arduino UNO
 
 Pronto, agora abra o programa que será gravado na Franzino. Para esse exemplo vamos usar o exemplo Blink, mas você poderá fazer esse procedimento para gravar suas aplicações;
 
-![](./imagens/image6.jpg)
+![](./imagens/image6.png)
 
 
 Agora vamos preparar para gravação. Configure o Programador como ArduinoISP:
 
 
-![](./imagens/image12.jpg)
+![](./imagens/image12.png)
 
 Pronto, agora é só fazer o UPLOAD para a Franzino:
 
-![](./imagens/image14.jpg)
+![](./imagens/image14.png)
 
 ## Esquema elétrico da placa
 
-![](./imagens/image1.jpg)
+![](./imagens/image1.png)
 
 ## Layout
 
-![](./imagens/image4.jpg)
+![](./imagens/image4.png)
 
 
 Todos os arquivos de projeto estão disponíveis no Github: https://github.com/FBSeletronica/Franzino
