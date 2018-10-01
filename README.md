@@ -5,23 +5,17 @@ Franzino is a low cost Arduino standalone board. As its name suggests, is a simp
 Unlike standalones available in the market, the Franzino board has pinout Arduino Rev 3 and connector for easy connection of the serial interface. The ease of access to the pins of the serial interface, enables you to connect communication modules according to the needs of the project. You will be able to easily connect serial level converters such as USB, RS232, RS485 and even a Bluetooth module, without the need to use shields.
 
 
-The Franzino board comes with the Arduino UNO bootloader to facilitating the upload process of your scketch. You can easily upload your sketch to Franzino board using a USB to Serial converter, following the same steps that are already used to your Arduino UNO board.
+Franzino uses Arduino UNO bootloader to facilitating the upload process of your scketch. You can easily upload your sketch to Franzino board using a USB to Serial converter, following the same steps that are already used to your Arduino UNO board.
 
 
 # Characteristics:
 
 - Arduino UNO R3 pinout;
-
 - ATmega328P Microcontroller;
-
 - Power: 7.5 V to 20 V DC;
-
 - Protection against reverse polarity of the supply;
-
 - Connector for serial interface connection;
-
 - Power on LED;
-
 - LED connected to pin 13 for general porpouse;
 
 
@@ -33,7 +27,7 @@ A placa Franzino é um Arduino standalone de baixo custo. Como seu próprio nome
 
 Diferente dos standalones disponíveis no mercado, a placa Franzino possui pinagem Arduino UNO Rev 3 e conector para fácil ligação da interface serial. A facilidade de acesso aos pinos da interface serial, possibilita que você ligue módulos de comunicação conforme a necessidade do projeto. Você conseguirá facilmente ligar conversores de níveis seriais como: USB, RS232, RS485 e até mesmo um módulo Bluetooth, sem a necessidade do uso de shields.
 
-A Franzino vem com o bootloader do Arduino UNO facilitando o processo de upload do seu scketch. Você poderá facilmente fazer o upload do seu sketch para placa usando um conversor USB/Serial, seguindo os mesmos passos que já está acostumado a fazer com a placa Arduino UNO.
+A Franzino usa o bootloader do Arduino UNO facilitando o processo de upload do seu scketch. Você poderá facilmente fazer o upload do seu sketch para placa usando um conversor USB/Serial, seguindo os mesmos passos que já está acostumado a fazer com a placa Arduino UNO.
 
 ## Características:
 
