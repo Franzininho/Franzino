@@ -8,21 +8,21 @@ Unlike standalones available in the market, the Franzino board has pinout Arduin
 The Franzino board comes with the Arduino UNO bootloader to facilitating the upload process of your scketch. You can easily upload your sketch to Franzino board using a USB to Serial converter, following the same steps that are already used to your Arduino UNO board.
 
 
-#Characteristics:
+# Characteristics:
 
--Arduino UNO R3 pinout;
+- Arduino UNO R3 pinout;
 
--ATmega328P Microcontroller;
+- ATmega328P Microcontroller;
 
--Power: 7.5 V to 20 V DC;
+- Power: 7.5 V to 20 V DC;
 
--Protection against reverse polarity of the supply;
+- Protection against reverse polarity of the supply;
 
--Connector for serial interface connection;
+- Connector for serial interface connection;
 
--Power on LED;
+- Power on LED;
 
--LED connected to pin 13 for general porpouse;
+- LED connected to pin 13 for general porpouse;
 
 
 
