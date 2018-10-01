@@ -1,4 +1,4 @@
-# Franzino
+# Franzino (ENG)
 
 Franzino is a low cost Arduino standalone board. As its name suggests, is a simple board that has just the basic components so you can use the ATmega328P microcontroller, both for study and for applications in projects.
 
@@ -25,4 +25,23 @@ The Franzino board comes with the Arduino UNO bootloader to facilitating the upl
 -LED connected to pin 13 for general porpouse;
 
 
+
+
+# Franzino (PT)
+
+A placa Franzino é um Arduino standalone de baixo custo. Como seu próprio nome sugere, é uma placa enxuta que possui os componentes básicos para que você possa usar o microcontrolador ATmega328, tanto para estudo quanto para a aplicações em projetos.
+
+Diferente dos standalones disponíveis no mercado, a placa Franzino possui pinagem Arduino UNO Rev 3 e conector para fácil ligação da interface serial. A facilidade de acesso aos pinos da interface serial, possibilita que você ligue módulos de comunicação conforme a necessidade do projeto. Você conseguirá facilmente ligar conversores de níveis seriais como: USB, RS232, RS485 e até mesmo um módulo Bluetooth, sem a necessidade do uso de shields.
+
+A Franzino vem com o bootloader do Arduino UNO facilitando o processo de upload do seu scketch. Você poderá facilmente fazer o upload do seu sketch para placa usando um conversor USB/Serial, seguindo os mesmos passos que já está acostumado a fazer com a placa Arduino UNO.
+
+## Características:
+
+- Pinagem Padrão UNO R3
+- Microcontrolador ATmega328P;
+- Alimentação: 7,5 V a 20 V DC;
+- Proteção contra inversão de polaridade da fonte;
+- Conector para ligação de interface serial;
+- LED para indicação de alimentação;
+- LED conectado ao pino 13 para uso geral
 
