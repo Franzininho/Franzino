@@ -27285,8 +27285,8 @@ Source: AVX .. aphvc.pdf</description>
 </libraries>
 <attributes>
 <attribute name="CNAME" value="Franzino"/>
-<attribute name="CREVISION" value="V0RV0"/>
-<attribute name="DESIGNER" value="FBS Eletrônica"/>
+<attribute name="CREVISION" value="V0RV1"/>
+<attribute name="DESIGNER" value="Fábio Souza"/>
 </attributes>
 <variantdefs>
 </variantdefs>
