@@ -163,12 +163,6 @@ https://github.com/FBSeletronica/Franzino
 
 
 
-## Contato
-
-Para dúvidas e informações entre em contato:
-
-fs.embarcados@gmail.com
-
 
 Controle de revisões do Manual
 
